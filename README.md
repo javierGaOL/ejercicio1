@@ -11,7 +11,8 @@
 <li>Commit 1: code to run</li>
 <li>Commit 2: environment configuration (yaml format)</li>
 <li>Commit 3: updated README.md file whit instructions to clone the repo, create a new environment based on yaml file and how to run the code
-O</li>
-<li>Submit task</li>
+</li>
 </ol>
+<li>Submit task</li>
+
 </ol>
