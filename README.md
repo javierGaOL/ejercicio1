@@ -1,18 +1,17 @@
 #README
-<ol>
-<li>Create a new environment</li>
-<li>Activate the new environment</li>
-<li>Identify the libraries needed to run the code attached to this exercise</li>
-<li>Install the libraries you need</li>
-<li>Verify that you can run the code without errors</li>
-<li>Export the environment configuration</li>
-<li>Create a new repository</li>
-<ol>
-<li>Commit 1: code to run</li>
-<li>Commit 2: environment configuration (yaml format)</li>
-<li>Commit 3: updated README.md file whit instructions to clone the repo, create a new environment based on yaml file and how to run the code
-</li>
-</ol>
-<li>Submit task</li>
+1.Create a new environment
+2.Activate the new environment
+3.Identify the libraries needed to run the code attached to this exercise
+4.Install the libraries you need
+5.Verify that you can run the code without errors
+6.Export the environment configuration
+7.Create a new repository
 
-</ol>
+1.Commit 1: code to run
+2.Commit 2: environment configuration (yaml format)
+3.Commit 3: updated README.md file whit instructions to clone the repo, create a new environment based on yaml file and how to run the code
+
+
+8.Submit task
+
+
